@@ -1,0 +1,31 @@
+[
+  {
+    "title": "cuido.co (Private)",
+    "description": "CUIDO es una plataforma digital con inteligencia artificial que fortalece el talento humano en salud mediante diagnóstico, mentoría, formación y reconocimiento, mejorando el bienestar, el desempeño y la calidad del servicio.",
+    "image": "cuido.png",
+    "github_link": false,
+    "link": "https://cuido.co/",
+    "tools": ["Microservicios", "Pendiente stack"]
+  },
+
+  {
+    "title": "EduSafe",
+    "description": "Cuidado y prevención de abusos en entornos educativos.",
+    "image": "",
+    "github_link_backend": "https://github.com/JuanMartinezL/EduSafe_Back.git",
+    "github_link": "https://github.com/JuanMartinezL/EduSafe_Front.git",
+    "link": "",
+    "tools": ["NODE JS", "REACT", "MONGODB", "EXPRESS"]
+  },
+
+  {
+    "title": "Social Net (Proyecto talento tech)",
+    "description": "Red Social Backend - Frontend",
+    "image": "publicaciones_social_net.png",
+    "github_link_backend": "https://github.com/JuanMartinezL/Backend_social_net.git",
+    "github_link": "https://github.com/JuanMartinezL/Frontend_social_net.git",
+    "link": "https://front-social-net.onrender.com",
+    "tools": ["NODE JS", "REACT", "MONGODB", "EXPRESS"]
+  }
+  
+]
